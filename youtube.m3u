@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台視新聞台
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1756598987/ei/az6zaM-1K5a9kucP0d-W2Q0/ip/172.214.44.3/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMo2Yf31nhV1WxPFIL3mBknGfoVNwD7PT5rrQ7xZA34CRa5XTkwGys1YnW_TXyrMv1au8Ud3HUW/spc/l3OVKYsj-MW5X6cINSvYK2RodVBUgweCfYkFSmouM0-BwwU7XXKAvakMG9-wusTEN54/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDYlomao47G70_rs-DwvgVEEGTPw7NqlmFuL9SwqltKICIQDPyG-VcUTeeAxEFMZHQ_MorR89vweMTELhmdW0oOudeQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 三立海外直播
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
